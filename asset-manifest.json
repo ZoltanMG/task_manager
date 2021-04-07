@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/task_manager/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/task_manager/static/js/main.ef22cd60.chunk.js",
+    "main.js.map": "/task_manager/static/js/main.ef22cd60.chunk.js.map",
+    "runtime-main.js": "/task_manager/static/js/runtime-main.d07f6040.js",
+    "runtime-main.js.map": "/task_manager/static/js/runtime-main.d07f6040.js.map",
+    "static/js/2.d058282a.chunk.js": "/task_manager/static/js/2.d058282a.chunk.js",
+    "static/js/2.d058282a.chunk.js.map": "/task_manager/static/js/2.d058282a.chunk.js.map",
+    "static/js/3.b928beac.chunk.js": "/task_manager/static/js/3.b928beac.chunk.js",
+    "static/js/3.b928beac.chunk.js.map": "/task_manager/static/js/3.b928beac.chunk.js.map",
+    "index.html": "/task_manager/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/task_manager/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d058282a.chunk.js.LICENSE.txt": "/task_manager/static/js/2.d058282a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/task_manager/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07f6040.js",
+    "static/js/2.d058282a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ef22cd60.chunk.js"
+  ]
+}
